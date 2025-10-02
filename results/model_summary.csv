@@ -1,0 +1,6 @@
+,RandomForest,KNN
+ROC_AUC,0.986,0.964
+Precision,0.895,0.899
+Recall,0.859,0.808
+Specificity,0.981,0.983
+F1,0.876,0.851
